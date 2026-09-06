@@ -1,4 +1,4 @@
-;;; dtrace-script-mode.el --- DTrace code editing commands for Emacs
+;;; dtrace-script-mode.el --- DTrace code editing commands for Emacs  -*- lexical-binding: nil; -*-
 
 ;;; Commentary:
 
